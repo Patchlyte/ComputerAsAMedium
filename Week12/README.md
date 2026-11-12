@@ -6,7 +6,7 @@
 ### Group Members: [Amir and Deanna]
 
 
-## Bullet Task - Dea
+### Bullet Task - Dea
 
 
 using UnityEngine;
@@ -52,7 +52,7 @@ public class Bullet : MonoBehaviour
 
 
 
-## Cooroutine Player Health Stats - Dea
+### Cooroutine Player Health Stats - Dea
 
 
 using UnityEngine;
